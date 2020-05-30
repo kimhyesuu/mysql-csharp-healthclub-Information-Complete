@@ -1,0 +1,26 @@
+D:\project\c#\sqlDB 조회\sqlDB 조회\bin\Debug\sqlDB 조회.exe.config
+D:\project\c#\sqlDB 조회\sqlDB 조회\bin\Debug\sqlDB 조회.exe
+D:\project\c#\sqlDB 조회\sqlDB 조회\bin\Debug\sqlDB 조회.pdb
+D:\project\c#\sqlDB 조회\sqlDB 조회\bin\Debug\MySql.Data.dll
+D:\project\c#\sqlDB 조회\sqlDB 조회\bin\Debug\Google.Protobuf.dll
+D:\project\c#\sqlDB 조회\sqlDB 조회\bin\Debug\Zstandard.Net.dll
+D:\project\c#\sqlDB 조회\sqlDB 조회\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\project\c#\sqlDB 조회\sqlDB 조회\bin\Debug\BouncyCastle.Crypto.dll
+D:\project\c#\sqlDB 조회\sqlDB 조회\bin\Debug\Ubiety.Dns.Core.dll
+D:\project\c#\sqlDB 조회\sqlDB 조회\bin\Debug\Renci.SshNet.dll
+D:\project\c#\sqlDB 조회\sqlDB 조회\bin\Debug\System.Buffers.dll
+D:\project\c#\sqlDB 조회\sqlDB 조회\bin\Debug\K4os.Compression.LZ4.dll
+D:\project\c#\sqlDB 조회\sqlDB 조회\bin\Debug\K4os.Hash.xxHash.dll
+D:\project\c#\sqlDB 조회\sqlDB 조회\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\project\c#\sqlDB 조회\sqlDB 조회\obj\Debug\sqlDB 조회.csprojAssemblyReference.cache
+D:\project\c#\sqlDB 조회\sqlDB 조회\obj\Debug\sqlDB_조회.MainForm.resources
+D:\project\c#\sqlDB 조회\sqlDB 조회\obj\Debug\sqlDB_조회.NEW_PERSON_MGT.resources
+D:\project\c#\sqlDB 조회\sqlDB 조회\obj\Debug\sqlDB_조회.Person_info_del.resources
+D:\project\c#\sqlDB 조회\sqlDB 조회\obj\Debug\sqlDB_조회.PERSON_Info_update.resources
+D:\project\c#\sqlDB 조회\sqlDB 조회\obj\Debug\sqlDB_조회.Properties.Resources.resources
+D:\project\c#\sqlDB 조회\sqlDB 조회\obj\Debug\sqlDB_조회.Resultdata.resources
+D:\project\c#\sqlDB 조회\sqlDB 조회\obj\Debug\sqlDB 조회.csproj.GenerateResource.cache
+D:\project\c#\sqlDB 조회\sqlDB 조회\obj\Debug\sqlDB 조회.csproj.CoreCompileInputs.cache
+D:\project\c#\sqlDB 조회\sqlDB 조회\obj\Debug\sqlDB 조회.csproj.CopyComplete
+D:\project\c#\sqlDB 조회\sqlDB 조회\obj\Debug\sqlDB 조회.exe
+D:\project\c#\sqlDB 조회\sqlDB 조회\obj\Debug\sqlDB 조회.pdb
